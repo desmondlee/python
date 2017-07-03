@@ -1,0 +1,3 @@
+若希望在linux , mac 等机器上能直接执行python文件，在开头添加如下代码即可：
+
+#!/usr/bin/env python3
