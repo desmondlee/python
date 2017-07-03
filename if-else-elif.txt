@@ -1,0 +1,9 @@
+if, else, elif 的使用：
+
+age = 3
+if age >= 18:
+    print('adult')
+elif age >= 6:
+    print('teenager')
+else:
+    print('kid')
